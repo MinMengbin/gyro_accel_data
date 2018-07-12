@@ -13,3 +13,12 @@
  *  Email: prlatlab@gmail.com; robotintheworld@163.com
  *  http://prllab.wixsite.com/prl-lab-en
  */
+
+
+
+/*
+ * gyro_accel_data.cpp
+ * UM7 http://www.chrobotics.com/shop/um7-orientation-sensor
+ *  Created on: Aug 22, 2017
+ *      Author: aspa1
+ */
